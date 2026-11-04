@@ -1,17 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:052e16,100:16a34a&text=Amirul%20Hakimi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-stack%20%7C%20Design&descSize=18&descAlignY=60" width="100%" alt="Amirul Hakimi">
+<p align="center"><img src="assets/banner.svg" alt="Amirul Hakimi" width="100%"></p>
 
 <p align="center">
-  <a href="https://amrlhakimi.my"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=640&lines=Moving+from+building+software+to+defending+it;Writing+detection+rules+in+a+home+SOC+lab;Building+privacy-first+security+tools;Full-stack+with+React+and+.NET" alt="Typing animation"></a>
+  <a href="https://amrlhakimi.my"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=3200&pause=1000&color=BD66FF&center=true&vCenter=true&width=640&lines=Moving+from+building+software+to+defending+it;Writing+detection+rules+in+a+home+SOC+lab;Building+privacy-first+security+tools;Full-stack+with+React+and+.NET" alt="Typing animation"></a>
 </p>
 
 <p align="center">
-  <a href="https://amrlhakimi.my"><img src="https://img.shields.io/badge/Portfolio-amrlhakimi.my-16a34a?style=for-the-badge" alt="Portfolio"></a>
-  <a href="mailto:amirulxhakimi@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0d1117?style=for-the-badge&logo=gmail&logoColor=22c55e" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based_in-Kedah,_Malaysia-0d1117?style=for-the-badge&logoColor=22c55e" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=amrlhakimii&label=Profile+views&color=16a34a&style=for-the-badge" alt="Profile views">
+  <a href="https://amrlhakimi.my"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="58"></a>
+  <a href="https://www.linkedin.com/in/amrlhakimii/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="58"></a>
+  <a href="mailto:amirulxhakimi@gmail.com"><img src="assets/btn-email.svg" alt="Email me" height="58"></a>
+  <a href="https://github.com/amrlhakimii"><img src="assets/btn-github.svg" alt="GitHub" height="58"></a>
 </p>
 
----
+<img src="assets/eyebrow-about.svg" alt="">
 
 ## About
 
@@ -24,32 +24,18 @@ Computer science graduate moving from building software to defending it. I join 
 | **Learning** | Splunk, EDR tooling, Sysmon, Wireshark and incident response |
 | **Open to** | Cybersecurity, AI engineering and full-stack freelance work |
 
+<img src="assets/eyebrow-projects.svg" alt="">
+
 ## Featured projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amrlhakimii/loglens">loglens</a></h3>
-      <p>In-browser log analyzer with explainable detection rules, MITRE ATT&amp;CK mapping, timeline and alert triage. Files never leave your browser.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="TypeScript"> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Security"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amrlhakimii/phishcheck">phishcheck</a></h3>
-      <p>Client-side phishing email analyzer. Explains each red flag, never opens links or renders HTML.</p>
-      <p><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="TypeScript"> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Security"></p>
-    </td>
+    <td width="50%" align="center"><a href="https://github.com/amrlhakimii/loglens"><img src="assets/card-loglens.svg" alt="loglens" width="100%"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/amrlhakimii/phishcheck"><img src="assets/card-phishcheck.svg" alt="phishcheck" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amrlhakimii/seckit-mcp">seckit-mcp</a></h3>
-      <p>Read-only defensive security MCP server: CVE and ATT&amp;CK lookups, privacy-preserving breach check, log parsing, IOC defanging.</p>
-      <p><img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="MCP"> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Security"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amrlhakimii/design-system-mcp">design-system-mcp</a></h3>
-      <p>MCP server that exposes a personal design system (palette generator, component rules, UI review) to AI clients.</p>
-      <p><img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="MCP"> <img src="https://img.shields.io/badge/Design-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Design"></p>
-    </td>
+    <td width="50%" align="center"><a href="https://github.com/amrlhakimii/seckit-mcp"><img src="assets/card-seckit-mcp.svg" alt="seckit-mcp" width="100%"></a></td>
+    <td width="50%" align="center"><a href="https://github.com/amrlhakimii/design-system-mcp"><img src="assets/card-design-system-mcp.svg" alt="design-system-mcp" width="100%"></a></td>
   </tr>
 </table>
 
@@ -66,6 +52,8 @@ Computer science graduate moving from building software to defending it. I join 
 
 </details>
 
+<img src="assets/eyebrow-stack.svg" alt="">
+
 ## Tech stack
 
 <p>
@@ -76,15 +64,28 @@ Computer science graduate moving from building software to defending it. I join 
 
 **Security:** detection rules (Sigma, SPL), MITRE ATT&CK, log analysis, DNS/HTTP/tcpdump basics, Splunk, Sysmon, Wireshark
 
+<img src="assets/eyebrow-stats.svg" alt="">
+
 ## GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrlhakimii&theme=github_dark" alt="GitHub stats">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrlhakimii&theme=github_dark" alt="Repos per language">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amrlhakimii&theme=github_dark" alt="Most used languages">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrlhakimii&theme=dracula" alt="GitHub stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrlhakimii&theme=dracula" alt="Repos per language">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amrlhakimii&theme=dracula" alt="Most used languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrlhakimii&theme=dark&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&border=30363d&hide_border=false" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=amrlhakimii&theme=dark&background=16171D&ring=AA3BFF&fire=BD66FF&currStreakLabel=BD66FF&currStreakNum=F3F4F6&sideNums=F3F4F6&sideLabels=9CA3AF&dates=9CA3AF&border=2E303A&hide_border=false" alt="GitHub streak">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:16a34a,100:052e16&section=footer" width="100%" alt="">
+<img src="assets/eyebrow-contact.svg" alt="">
+
+## Get in touch
+
+Open to cybersecurity roles, AI engineering and freelance work.
+
+<p>
+  <a href="https://www.linkedin.com/in/amrlhakimii/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="58"></a>
+  <a href="mailto:amirulxhakimi@gmail.com"><img src="assets/btn-email.svg" alt="Email me" height="58"></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:16171d,100:8700ee&section=footer" width="100%" alt="">

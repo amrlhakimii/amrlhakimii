@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img"><defs>
+    <radialGradient id="g1" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#aa3bff" stop-opacity=".55"/><stop offset="1" stop-color="#aa3bff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0%" cy="100%" r="60%"><stop offset="0" stop-color="#8700ee" stop-opacity=".5"/><stop offset="1" stop-color="#8700ee" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gt" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#d399ff"/></linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".07"/></pattern></defs>
+    <rect width="1000" height="240" rx="24" fill="#16171d"/>
+    <rect width="1000" height="240" rx="24" fill="url(#g1)"/><rect width="1000" height="240" rx="24" fill="url(#g2)"/>
+    <rect width="1000" height="240" rx="24" fill="url(#dots)"/>
+    <rect x=".5" y=".5" width="999" height="239" rx="23.5" fill="none" stroke="#fff" stroke-opacity=".08"/>
+    <text x="500" y="78" text-anchor="middle" font-family="'Plus Jakarta Sans', Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4.5" fill="#bd66ff">CYBERSECURITY  /  FULL-STACK  /  DESIGN</text>
+    <text x="500" y="142" text-anchor="middle" font-family="Syne, 'Plus Jakarta Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="url(#gt)">Amirul Hakimi</text>
+    <text x="500" y="184" text-anchor="middle" font-family="'Plus Jakarta Sans', Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#fff" fill-opacity=".62">Building software, now learning to defend it. Jitra, Kedah, Malaysia.</text></svg>
