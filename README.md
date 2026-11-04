@@ -28,12 +28,28 @@ Computer science graduate moving from building software to defending it. I join 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/amrlhakimii/loglens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amrlhakimii&repo=loglens&theme=dark&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&border_color=30363d&hide_border=false" alt="loglens"></a></td>
-    <td width="50%"><a href="https://github.com/amrlhakimii/phishcheck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amrlhakimii&repo=phishcheck&theme=dark&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&border_color=30363d" alt="phishcheck"></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amrlhakimii/loglens">loglens</a></h3>
+      <p>In-browser log analyzer with explainable detection rules, MITRE ATT&amp;CK mapping, timeline and alert triage. Files never leave your browser.</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="TypeScript"> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Security"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amrlhakimii/phishcheck">phishcheck</a></h3>
+      <p>Client-side phishing email analyzer. Explains each red flag, never opens links or renders HTML.</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="TypeScript"> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Security"></p>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/amrlhakimii/seckit-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amrlhakimii&repo=seckit-mcp&theme=dark&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&border_color=30363d" alt="seckit-mcp"></a></td>
-    <td width="50%"><a href="https://github.com/amrlhakimii/design-system-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amrlhakimii&repo=design-system-mcp&theme=dark&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&border_color=30363d" alt="design-system-mcp"></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amrlhakimii/seckit-mcp">seckit-mcp</a></h3>
+      <p>Read-only defensive security MCP server: CVE and ATT&amp;CK lookups, privacy-preserving breach check, log parsing, IOC defanging.</p>
+      <p><img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="MCP"> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Security"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amrlhakimii/design-system-mcp">design-system-mcp</a></h3>
+      <p>MCP server that exposes a personal design system (palette generator, component rules, UI review) to AI clients.</p>
+      <p><img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="MCP"> <img src="https://img.shields.io/badge/Design-0d1117?style=flat-square&labelColor=0d1117&color=16a34a" alt="Design"></p>
+    </td>
   </tr>
 </table>
 
@@ -63,14 +79,12 @@ Computer science graduate moving from building software to defending it. I join 
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amrlhakimii&show_icons=true&theme=dark&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&border_color=30363d&hide_border=false" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrlhakimii&layout=compact&theme=dark&bg_color=0d1117&title_color=22c55e&border_color=30363d" alt="Top languages">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrlhakimii&theme=github_dark" alt="GitHub stats">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrlhakimii&theme=github_dark" alt="Repos per language">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amrlhakimii&theme=github_dark" alt="Most used languages">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amrlhakimii&theme=dark&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&border=30363d&hide_border=false" alt="GitHub streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrlhakimii&bg_color=0d1117&color=22c55e&line=16a34a&point=ffffff&area=true&area_color=16a34a&hide_border=true" alt="Contribution graph">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:16a34a,100:052e16&section=footer" width="100%" alt="">
